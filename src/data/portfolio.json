@@ -1,0 +1,18 @@
+[
+    {
+        "name": "BTC",
+        "amount": "2"
+    },
+    {
+        "name": "ETH",
+        "amount": "5"
+    },
+    {
+        "name": "SOL",
+        "amount": "10"
+    },
+    {
+        "name": "INJ",
+        "amount": "100"
+    }
+]

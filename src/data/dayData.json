@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mon",
+        "balance": "169887"
+    },
+    {
+        "name": "Tues",
+        "balance": "124667"
+    },
+    {
+        "name": "Wed",
+        "balance": "121456"
+    },
+    {
+        "name": "Thurs",
+        "balance": "120000"
+    },
+    {
+        "name": "Fri",
+        "balance": "135000"
+    },
+    {
+        "name": "Sat",
+        "balance": "130000"
+    },
+    {
+        "name": "Sund",
+        "balance": "145538"
+    }
+]
